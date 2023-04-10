@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "644825066207",
+    "project_id": "sssssurvey",
+    "storage_bucket": "sssssurvey.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644825066207:android:9d166dfd88a86c471bd76a",
+        "android_client_info": {
+          "package_name": "com.example.survey2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644825066207-c10ql88clfnrhe3so0d7jtdg13qpi9go.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD9lcpIoeM8uwrcboqna4reSN3ot06fxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644825066207-c10ql88clfnrhe3so0d7jtdg13qpi9go.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "644825066207-3sa555tndo2h3cnvmgj10cshctdokdmm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.survey2.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644825066207:android:00c8d39fbc7e904a1bd76a",
+        "android_client_info": {
+          "package_name": "com.example.survey_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644825066207-c10ql88clfnrhe3so0d7jtdg13qpi9go.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD9lcpIoeM8uwrcboqna4reSN3ot06fxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644825066207-c10ql88clfnrhe3so0d7jtdg13qpi9go.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "644825066207-3sa555tndo2h3cnvmgj10cshctdokdmm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.survey2.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
